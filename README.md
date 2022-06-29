@@ -25,6 +25,4 @@ Your app is ready to be deployed!
 
 ## Tech:
 
-React
-Tailwind
-Daisyui
+React, React Router DOM, React Icons, Tailwind, Daisyui
